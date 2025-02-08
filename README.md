@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mara Phillips</h1>
-<h3 align="center">A passionate Management Engineering Student at the University of Waterloo</h3>
+<h3 align="center">A Passionate Management Engineering Student at the University of Waterloo</h3>
 
 - 💬 Ask me about **VBA, Python, and Excel Projects**
 
